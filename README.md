@@ -24,6 +24,8 @@ Interactive user experience
 # Result Output-Screen Of our Project
 If There Is a path It shows The Output Like this. And user Can Control over the output
 ![image](https://github.com/user-attachments/assets/9bac8ce9-82d9-41b9-83ef-300d840d0195)
+![image](https://github.com/user-attachments/assets/768be243-4dfa-4260-a422-bd9f11b900f6)
+
 
 If There is No path To solution .The result will Be
 # No Solution
